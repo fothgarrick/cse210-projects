@@ -4,5 +4,7 @@
     "plaintext": false,
     "markdown": false,
     "csharp": false
-  }
+  },
+  "telemetry.feedback.enabled": false,
+  "telemetry.editStats.enabled": false
 }
